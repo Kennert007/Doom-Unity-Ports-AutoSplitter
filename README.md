@@ -1,6 +1,6 @@
 # Doom-Unity-Ports-AutoSplitter
 
-Autosplitter for unity ports of Doom 1 and Doom 2 (Doom 2 isn't fully tested but it should work fine)
+Autosplitter for unity ports of Doom 1 and Doom 2 (also works with add-ons)
 
 
 # Setting up the autosplitter in Livesplit
